@@ -1,0 +1,56 @@
+/*
+Name: Anthony Rom
+Email: anthony_rom@student.uml.edu
+Affiliation: UMass Lowell Senior; Computer Science Major, UTeach Minor
+Date: December 15, 2020
+Description: This css file is to edit the presentation of the html file for homework 8
+*/
+
+html{
+  background-color: lightskyblue;
+}
+
+body{
+  margin: auto;
+  width: 75%;
+  background-color: lightblue;
+}
+
+.container{
+  margin-left: 345px;
+  margin-top: 50px;
+}
+
+/*Tray display*/
+.tray {
+  margin-bottom: 20px;
+  width: 550px;
+  height: 100px;
+}
+
+h1{
+  padding-top: 20px;
+}
+
+.score {
+  margin-top: 30px;
+  margin-left: 20px;
+  width: 100px;
+  font-size: 20px;
+  border-radius: 20px;
+  color: white;
+}
+
+.droppable{
+  border: 2px solid white;
+  height: 100px;
+  width: 100px;
+  margin-top: 10px;
+}
+label{
+  text-align: center;
+}
+
+button{
+  margin-bottom: 20px;
+}
